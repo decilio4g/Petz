@@ -1,0 +1,21 @@
+{
+  "name": "Petz",
+  "short_name": "Petz",
+  "icons": [
+    {
+      "src": "/img/petz.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/petz.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "background_color": "#06092B",
+  "description": "Petz - Seu pet center de estimação!",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "##00A0E4"
+}

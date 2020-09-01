@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\nimport Details from '../components/Details';\n\nvar Detalhes = function Detalhes() {\n  return __jsx(Details, null);\n};\n\nexport default Detalhes;","map":null,"metadata":{},"sourceType":"module"}
